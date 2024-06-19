@@ -1,6 +1,5 @@
 # Setting-up-developer-environments
 Developer Environment Setup Document
-
 Introduction
 This document outlines the steps I took to set up my developer environment. I've included configurations, customizations, and troubleshooting steps I encountered during the process.
 
